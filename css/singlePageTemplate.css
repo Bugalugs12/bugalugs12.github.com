@@ -90,6 +90,9 @@ ul li:hover a {
 	letter-spacing: 1px;
 }
 /* About Section */
+.thingspeak {
+	width: 40%;
+}
 .text_column {
 	width: 29%;
 	text-align: justify;
@@ -269,6 +272,9 @@ footer {
 
 /* Mobile */
 @media (max-width: 320px) {
+	.thingspeak {
+		width: 100%;
+	}
 .logo {
 	width: 100%;
 	text-align: center;
@@ -355,6 +361,9 @@ nav ul li {
 
 /* Small Tablets */
 @media (min-width: 321px)and (max-width: 767px) {
+.thingspeak{
+		width: 50%
+	}
 .logo {
 	width: 100%;
 	text-align: center;
@@ -462,6 +471,9 @@ nav ul li {
 
 /* Small Desktops */
 @media (min-width : 767px ) and ( max-width : 1096px ){
+	.thingspeak{
+		width: 40%;
+	}
 .text_column {
 	width: 100%;
 }
