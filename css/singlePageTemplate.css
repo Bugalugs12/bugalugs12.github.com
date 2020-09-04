@@ -362,7 +362,7 @@ nav ul li {
 /* Small Tablets */
 @media (min-width: 321px)and (max-width: 767px) {
 .thingspeak{
-		width: 50%
+		width: 80%;
 	}
 .logo {
 	width: 100%;
