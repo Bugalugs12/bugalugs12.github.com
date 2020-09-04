@@ -269,7 +269,7 @@ footer {
 
 
 /* Mobile */
-@media (max-width: 320px) {
+@media  screen and (max-width: 320px) {
 	.thingspeak {
 		width: 100%;
 	}
